@@ -1,5 +1,7 @@
 # MotionVault · Infographic & 3D Motion Graphics Library
 
+> ⚠️ **Upload in progress:** This repository currently contains documentation and initial configuration only. The full 23-file source bundle is available in the ChatGPT conversation as `MotionVault-Remotion-2D-3D.zip`. The React/Remotion source files have **not** been fully uploaded to GitHub yet; `npm run build` will not work until they are added. No deployment or MP4 rendering has been verified.
+
 A reusable **Vietnamese** Remotion video library with a searchable React web app, editing fields, a live embedded player and editable 2D + genuine 3D animations for short-form videos.
 
 ## Included in v0.2.0
