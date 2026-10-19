@@ -1,0 +1,200 @@
+{
+  "kenney": [
+    {
+      "id": "ui-audio",
+      "page": "https://kenney.nl/assets/ui-audio",
+      "url": "https://kenney.nl/media/pages/assets/ui-audio/490d233f68-1677590494/kenney_ui-audio.zip",
+      "bytes": "411949",
+      "archive_sha256": "946fc23a63d535d693eb31b2eabb80c8c28d6351e2186b344ceb71b2cb1d5eb6",
+      "audio_count": 52
+    },
+    {
+      "id": "interface-sounds",
+      "page": "https://kenney.nl/assets/interface-sounds",
+      "url": "https://kenney.nl/media/pages/assets/interface-sounds/fa43c1dd4d-1677589452/kenney_interface-sounds.zip",
+      "bytes": "834536",
+      "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+      "audio_count": 100
+    },
+    {
+      "id": "impact-sounds",
+      "page": "https://kenney.nl/assets/impact-sounds",
+      "url": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip",
+      "bytes": "800850",
+      "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "audio_count": 130
+    },
+    {
+      "id": "rpg-audio",
+      "page": "https://kenney.nl/assets/rpg-audio",
+      "url": "https://kenney.nl/media/pages/assets/rpg-audio/8e99002d76-1677590336/kenney_rpg-audio.zip",
+      "bytes": "964837",
+      "archive_sha256": "6dbeaf8544da958d8f2adcb4a4a4b76c1ade34a05f8ab9edccd327da7375f38b",
+      "audio_count": 52
+    }
+  ],
+  "bigsoundbank": [
+    {
+      "id": "truck-engine",
+      "group": "construction/truck",
+      "page": "https://bigsoundbank.com/truck-engine-1-s1442.html",
+      "url": "https://bigsoundbank.com/UPLOAD/bwf-en/1442.wav",
+      "estimated_bytes": 2103476,
+      "name": "Truck engine #1",
+      "author": "Joseph SARDIN",
+      "description": "Noise of a truck engine stopped.",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "source_license_marked_cc0": true,
+      "original_filename": "1442.wav",
+      "downloaded_bytes": 2103476,
+      "sha256": "0a4d978f7daa370eb89f96161dd1577592416e98b938ee33f38be9f57ec2631d"
+    },
+    {
+      "id": "excavator-engine",
+      "group": "construction/excavator",
+      "page": "https://bigsoundbank.com/sound-2147-pelleteuse-moteur.html",
+      "url": "https://bigsoundbank.com/UPLOAD/bwf-en/2147.wav",
+      "estimated_bytes": 11439788,
+      "name": "Excavator, engine",
+      "author": "Joseph SARDIN",
+      "description": "3 liter engine of a compact excavator. This is a Volvo EC55B.",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "source_license_marked_cc0": true,
+      "original_filename": "2147.wav",
+      "downloaded_bytes": 11439788,
+      "sha256": "e04f2283bceb8951e0ea3cfac831729af0d03051f7fb495ffd89770388c5458d"
+    },
+    {
+      "id": "forklift",
+      "group": "construction/forklift",
+      "page": "https://bigsoundbank.com/manitou-telescopic-handler-s0984.html",
+      "url": "https://bigsoundbank.com/UPLOAD/bwf-en/0984.wav",
+      "estimated_bytes": 21861940,
+      "name": "Telescopic handler",
+      "author": "Joseph SARDIN",
+      "description": "Arrived, unloading and then removal of a Manitou telescopic forklift. Birds.",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "source_license_marked_cc0": true,
+      "original_filename": "0984.wav",
+      "downloaded_bytes": 21861940,
+      "sha256": "ba931e539d3b7a9fff45924afe2161eea667af6288fbf1e44919772d56e809d2"
+    },
+    {
+      "id": "steel-bars",
+      "group": "materials/steel",
+      "page": "https://bigsoundbank.com/fall-2-sheet-steel-bars-1-s1776.html",
+      "url": "https://bigsoundbank.com/UPLOAD/bwf-en/1776.wav",
+      "estimated_bytes": 492482,
+      "name": "Fall 2 sheet steel bars #1",
+      "author": "Joseph SARDIN",
+      "description": "Two steel bars made of sheet metal, which fall to the ground on a path.",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "source_license_marked_cc0": true,
+      "original_filename": "1776.wav",
+      "downloaded_bytes": 492482,
+      "sha256": "30cc71b0d17a362fb4aa52d45ab325c350d17b27f4fad48babbc43d138dc5f10"
+    },
+    {
+      "id": "gravel-footsteps",
+      "group": "materials/gravel",
+      "page": "https://bigsoundbank.com/steps-on-gravels-s0510.html",
+      "url": "https://bigsoundbank.com/UPLOAD/bwf-en/0510.wav",
+      "estimated_bytes": 957522,
+      "name": "Footsteps on gravels #1",
+      "author": "Joseph SARDIN",
+      "description": "Several steps on gravel ground.",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "source_license_marked_cc0": true,
+      "original_filename": "0510.wav",
+      "downloaded_bytes": 957522,
+      "sha256": "346f52d1529a960a849d480aba5de9fb0819936aeb85238c58cdb90a504bdbb8"
+    },
+    {
+      "id": "pneumatic-brake-car",
+      "group": "construction/vehicle-brake",
+      "page": "https://bigsoundbank.com/pneumatic-brake-released-s1490.html",
+      "url": "https://bigsoundbank.com/UPLOAD/bwf-en/1490.wav",
+      "estimated_bytes": 127200,
+      "name": "Pneumatic brake released",
+      "author": "Joseph SARDIN",
+      "description": "Manual pneumatic brake release of Kia Carnival car.",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "source_license_marked_cc0": true,
+      "original_filename": "1490.wav",
+      "downloaded_bytes": 127200,
+      "sha256": "988affeb11d0a565ff1a9e21427acad496b54331e7b93a4e25a0c75d6457e3c6"
+    }
+  ],
+  "freesound_and_scratch": [
+    {
+      "id": "sand",
+      "page": "https://freesound.org/people/martinimeniscus/sounds/199332/",
+      "url": "https://cdn.freesound.org/previews/199/199332_2320755-hq.mp3",
+      "original_filename": "sand pour on sand FF662.aif",
+      "download_filename": "199332_2320755-hq.mp3",
+      "author": "martinimeniscus",
+      "group": "materials/sand",
+      "description": "Recorded sand being poured on sand; official lossy preview, not the original AIFF.",
+      "estimated_bytes": "557184",
+      "downloaded_bytes": 557184,
+      "sha256": "819a0c32f19ce02a3d6728f9521028d60e47b3b2984b8ab16096a7d63d3c1296",
+      "download_variant": "official-hq-mp3-preview"
+    },
+    {
+      "id": "bricks",
+      "page": "https://freesound.org/people/cejordi84/sounds/232396/",
+      "url": "https://cdn.freesound.org/previews/232/232396_3270296-hq.mp3",
+      "original_filename": "Bricks.wav",
+      "download_filename": "232396_3270296-hq.mp3",
+      "author": "cejordi84",
+      "group": "materials/brick",
+      "description": "Layered recording of two bricks smashed together, AKG 414; official lossy preview, not original WAV.",
+      "estimated_bytes": "17066",
+      "downloaded_bytes": 17066,
+      "sha256": "43860aaa1bb1eadf0a588276a2e6ca66709abd03e773f6ba8b44e69a85e6159b",
+      "download_variant": "official-hq-mp3-preview"
+    },
+    {
+      "id": "truck-air-brake",
+      "page": "https://freesound.org/people/buzkill/sounds/825460/",
+      "url": "https://cdn.freesound.org/previews/825/825460_17172870-hq.mp3",
+      "original_filename": "VEHCnst_Street Construction Cement Mixer Truck Air Brake_Usi Pro AB_RambleRecordings_001",
+      "download_filename": "825460_17172870-hq.mp3",
+      "author": "buzkill / Ramble Recordings",
+      "group": "construction/truck-air-brake",
+      "description": "Cement mixer brake after parking; official lossy preview, not original WAV.",
+      "estimated_bytes": "163872",
+      "downloaded_bytes": 163872,
+      "sha256": "ca95247102741d6f404ca24e9439690c4b9b353952a14dc77c1067f004e7f7ed",
+      "download_variant": "official-hq-mp3-preview"
+    },
+    {
+      "id": "scratch",
+      "page": "https://opengameart.org/content/scratch-vocal-sound",
+      "url": "https://opengameart.org/sites/default/files/scroutch_0.ogg",
+      "original_filename": "scroutch_0.ogg",
+      "download_filename": "scroutch_0.ogg",
+      "author": "farfadet46",
+      "group": "comedy/scratch",
+      "description": "Vocal imitation of scratch, not a recording of a turntable.",
+      "estimated_bytes": "9155",
+      "downloaded_bytes": 9155,
+      "sha256": "4acf7b417b3527e2598b3b1df568cfdd8fbc531ef0c4ed1f7ae09bb74ade1ebc",
+      "download_variant": "original-ogg"
+    }
+  ],
+  "swishes_and_boing": [
+    {
+      "id": "swishes",
+      "page": "https://opengameart.org/content/swishes-sound-pack",
+      "url": "https://opengameart.org/sites/default/files/swishes.zip",
+      "estimated_bytes": "385150"
+    },
+    {
+      "id": "boing",
+      "page": "https://opengameart.org/content/boing",
+      "url": "https://opengameart.org/sites/default/files/boing.flac",
+      "estimated_bytes": "194024"
+    }
+  ]
+}

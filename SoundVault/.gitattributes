@@ -1,0 +1,7 @@
+audio/** -text
+demo/*.wav -text
+licenses/kenney/** -text -diff
+*.json text eol=lf
+*.md text eol=lf
+tools/*.py text eol=lf
+licenses/CC0-1.0.txt -text -diff

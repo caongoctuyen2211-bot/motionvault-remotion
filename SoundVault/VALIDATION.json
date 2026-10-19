@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-19",
+  "summary": {
+    "starter_files_preserved": 16,
+    "downloaded_audio_files_before_deduplication": 358,
+    "downloaded_audio_bytes_before_deduplication": 41912271,
+    "new_unique_audio_files": 356,
+    "unique_library_files": 372,
+    "library_audio_bytes": 42260775,
+    "duplicates_skipped": 2,
+    "decode_failures": 0,
+    "aurally_reviewed_files": 0,
+    "review_scope": "Technical decoding and metadata checks only; no claim of listening review.",
+    "files_with_decoded_peak_overshoot": 44,
+    "original_16_byte_identical_to_starter": true,
+    "new_unique_audio_bytes": 41899559
+  },
+  "failures": [],
+  "source_archives": [
+    {
+      "id": "ui-audio",
+      "page": "https://kenney.nl/assets/ui-audio",
+      "url": "https://kenney.nl/media/pages/assets/ui-audio/490d233f68-1677590494/kenney_ui-audio.zip",
+      "bytes": "411949",
+      "archive_sha256": "946fc23a63d535d693eb31b2eabb80c8c28d6351e2186b344ceb71b2cb1d5eb6",
+      "audio_count": 52
+    },
+    {
+      "id": "interface-sounds",
+      "page": "https://kenney.nl/assets/interface-sounds",
+      "url": "https://kenney.nl/media/pages/assets/interface-sounds/fa43c1dd4d-1677589452/kenney_interface-sounds.zip",
+      "bytes": "834536",
+      "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+      "audio_count": 100
+    },
+    {
+      "id": "impact-sounds",
+      "page": "https://kenney.nl/assets/impact-sounds",
+      "url": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip",
+      "bytes": "800850",
+      "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "audio_count": 130
+    },
+    {
+      "id": "rpg-audio",
+      "page": "https://kenney.nl/assets/rpg-audio",
+      "url": "https://kenney.nl/media/pages/assets/rpg-audio/8e99002d76-1677590336/kenney_rpg-audio.zip",
+      "bytes": "964837",
+      "archive_sha256": "6dbeaf8544da958d8f2adcb4a4a4b76c1ade34a05f8ab9edccd327da7375f38b",
+      "audio_count": 52
+    }
+  ],
+  "supplemental_downloads": [
+    {
+      "id": "swishes",
+      "page": "https://opengameart.org/content/swishes-sound-pack",
+      "url": "https://opengameart.org/sites/default/files/swishes.zip",
+      "estimated_bytes": "385150"
+    },
+    {
+      "id": "boing",
+      "page": "https://opengameart.org/content/boing",
+      "url": "https://opengameart.org/sites/default/files/boing.flac",
+      "estimated_bytes": "194024"
+    }
+  ],
+  "files_with_peak_overshoot": [
+    "kenney-ui-audio-switch1",
+    "kenney-ui-audio-switch15",
+    "kenney-ui-audio-switch16",
+    "kenney-ui-audio-switch18",
+    "kenney-ui-audio-switch22",
+    "kenney-ui-audio-switch23",
+    "kenney-ui-audio-switch25",
+    "kenney-ui-audio-switch26",
+    "kenney-ui-audio-switch27",
+    "kenney-ui-audio-switch3",
+    "kenney-ui-audio-switch30",
+    "kenney-ui-audio-switch31",
+    "kenney-ui-audio-switch32",
+    "kenney-ui-audio-switch5",
+    "kenney-ui-audio-switch9",
+    "kenney-ui-audio-Preview",
+    "kenney-interface-sounds-error_001",
+    "kenney-interface-sounds-error_002",
+    "kenney-interface-sounds-pluck_001",
+    "kenney-interface-sounds-pluck_002",
+    "kenney-rpg-audio-bookClose",
+    "kenney-rpg-audio-bookFlip1",
+    "kenney-rpg-audio-bookPlace1",
+    "kenney-rpg-audio-bookPlace2",
+    "kenney-rpg-audio-bookPlace3",
+    "kenney-rpg-audio-chop",
+    "kenney-rpg-audio-doorClose_1",
+    "kenney-rpg-audio-doorClose_3",
+    "kenney-rpg-audio-doorClose_4",
+    "kenney-rpg-audio-doorOpen_1",
+    "kenney-rpg-audio-doorOpen_2",
+    "kenney-rpg-audio-footstep00",
+    "kenney-rpg-audio-footstep01",
+    "kenney-rpg-audio-footstep03",
+    "kenney-rpg-audio-footstep07",
+    "kenney-rpg-audio-footstep08",
+    "kenney-rpg-audio-handleCoins",
+    "kenney-rpg-audio-knifeSlice2",
+    "kenney-rpg-audio-metalLatch",
+    "kenney-rpg-audio-metalPot1",
+    "kenney-rpg-audio-metalPot2",
+    "kenney-rpg-audio-metalPot3",
+    "kenney-rpg-audio-Preview",
+    "freesound-bricks"
+  ],
+  "archive_metadata_exclusions": [
+    "AppleDouble ._*.wav and __MACOSX resource forks in swishes.zip are metadata, not sound files; not imported."
+  ]
+}

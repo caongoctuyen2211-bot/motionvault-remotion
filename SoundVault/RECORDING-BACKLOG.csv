@@ -1,11 +1,11 @@
-id,nhom,am_thanh,tu_khoa,trang_thai
-field-001,xe-tai,Động cơ xe tải,truck idle engine,chua-co-file
-field-002,xe-tai,Phanh hơi,truck air brake,chua-co-file
-field-003,may-cong-trinh,Thủy lực nâng ben,hydraulic dump truck,chua-co-file
-field-004,vat-lieu,Cát đổ,sand pouring,chua-co-file
-field-005,vat-lieu,Gõ gạch,brick tap,chua-co-file
-field-006,vat-lieu,Thép va nhau,metal bar clank,chua-co-file
-field-007,may-cong-trinh,Xe nâng,forklift,chua-co-file
-field-008,may-cong-trinh,Máy xúc,excavator digging,chua-co-file
-field-009,khong-gian,Nền công trình,construction ambience,chua-co-file
-field-010,foley,Bước chân trên sỏi,gravel footsteps,chua-co-file
+﻿id,nhom,am_thanh,tu_khoa,trang_thai,duong_dan
+field-001,xe-tai,Động cơ xe tải,truck idle engine,co-wav-nguon-cc0-chua-nghe,audio/construction/truck/bigsoundbank/1442.wav
+field-002,xe-tai,Phanh hơi,truck air brake,co-mp3-preview-cc0-chua-co-wav-goc,audio/construction/truck-air-brake/freesound/825460_17172870-hq.mp3
+field-003,may-cong-trinh,Thủy lực nâng ben,hydraulic dump truck,chua-co-file,
+field-004,vat-lieu,Cát đổ,sand pouring,co-mp3-preview-cc0-chua-co-aiff-goc,audio/materials/sand/freesound/199332_2320755-hq.mp3
+field-005,vat-lieu,Gõ gạch,brick tap,co-mp3-preview-cc0-ban-thu-chong-lop,audio/materials/brick/freesound/232396_3270296-hq.mp3
+field-006,vat-lieu,Thép va nhau,metal bar clank,co-wav-thep-tam-roi-chua-nghe,audio/materials/steel/bigsoundbank/1776.wav
+field-007,may-cong-trinh,Xe nâng,forklift,co-wav-telescopic-handler-chua-nghe,audio/construction/forklift/bigsoundbank/0984.wav
+field-008,may-cong-trinh,Máy xúc,excavator digging,co-wav-dong-co-chua-co-canh-dao-dat,audio/construction/excavator/bigsoundbank/2147.wav
+field-009,khong-gian,Nền công trình,construction ambience,chua-co-file,
+field-010,foley,Bước chân trên sỏi,gravel footsteps,chua-co-file,
