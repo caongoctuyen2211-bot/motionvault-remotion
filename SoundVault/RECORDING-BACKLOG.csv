@@ -1,0 +1,11 @@
+id,nhom,am_thanh,tu_khoa,trang_thai
+field-001,xe-tai,Động cơ xe tải,truck idle engine,chua-co-file
+field-002,xe-tai,Phanh hơi,truck air brake,chua-co-file
+field-003,may-cong-trinh,Thủy lực nâng ben,hydraulic dump truck,chua-co-file
+field-004,vat-lieu,Cát đổ,sand pouring,chua-co-file
+field-005,vat-lieu,Gõ gạch,brick tap,chua-co-file
+field-006,vat-lieu,Thép va nhau,metal bar clank,chua-co-file
+field-007,may-cong-trinh,Xe nâng,forklift,chua-co-file
+field-008,may-cong-trinh,Máy xúc,excavator digging,chua-co-file
+field-009,khong-gian,Nền công trình,construction ambience,chua-co-file
+field-010,foley,Bước chân trên sỏi,gravel footsteps,chua-co-file
