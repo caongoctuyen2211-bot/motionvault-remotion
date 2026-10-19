@@ -366,5 +366,311 @@
       "performance"
     ],
     "notes": "Quy tắc quan trọng: ThreeCanvas có kích thước, mọi chuyển động phụ thuộc useCurrentFrame, tránh useFrame."
+  },
+  {
+    "id": "remotion-audiogram",
+    "name": "Remotion Audiogram Template",
+    "category": "Kho mẫu 2D",
+    "url": "https://github.com/remotion-dev/template-audiogram",
+    "license": "Cần xác minh riêng; Remotion theo điều khoản riêng",
+    "licenseVerification": "review",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "audio",
+      "captions",
+      "waveform"
+    ],
+    "notes": "Template video podcast/giọng nói. Kiểm tra quyền dùng âm thanh."
+  },
+  {
+    "id": "remotion-music-viz",
+    "name": "Remotion Music Visualization",
+    "category": "Kho mẫu 2D",
+    "url": "https://github.com/remotion-dev/template-music-visualization",
+    "license": "Cần xác minh riêng; Remotion theo điều khoản riêng",
+    "licenseVerification": "review",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "audio",
+      "spectrum",
+      "waveform"
+    ],
+    "notes": "Spectrum và waveform đồng bộ âm thanh; không gồm quyền nhạc."
+  },
+  {
+    "id": "remotion-prompt-graphics",
+    "name": "Prompt-to-Motion Graphics SaaS",
+    "category": "Kho mẫu 2D",
+    "url": "https://github.com/remotion-dev/template-prompt-to-motion-graphics-saas",
+    "license": "Cần xác minh trước khi sao chép mã",
+    "licenseVerification": "review",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "ai",
+      "generative",
+      "workflow"
+    ],
+    "notes": "Kiến trúc sinh Remotion từ prompt, phù hợp làm chức năng tự tạo mẫu mới."
+  },
+  {
+    "id": "react-postprocessing",
+    "name": "React Three Postprocessing",
+    "category": "3D Effects",
+    "url": "https://github.com/pmndrs/react-postprocessing",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "3d",
+      "bloom",
+      "dof",
+      "vignette"
+    ],
+    "notes": "Bộ hiệu ứng hậu kỳ cho React Three Fiber, cần thử render từng frame."
+  },
+  {
+    "id": "pmndrs-maath",
+    "name": "Maath Utilities",
+    "category": "3D Effects",
+    "url": "https://github.com/pmndrs/maath",
+    "license": "MIT (package.json)",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "3d",
+      "math",
+      "easing"
+    ],
+    "notes": "Tiện ích toán và easing 3D, cần hoạt ảnh dựa trên frame."
+  },
+  {
+    "id": "pmndrs-gltfjsx",
+    "name": "glTFJSX",
+    "category": "3D Tools",
+    "url": "https://github.com/pmndrs/gltfjsx",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "3d",
+      "gltf",
+      "converter"
+    ],
+    "notes": "Chuyển glTF thành React component, tài nguyên mô hình cần license riêng."
+  },
+  {
+    "id": "pmndrs-react-rapier",
+    "name": "React Three Rapier",
+    "category": "3D Effects",
+    "url": "https://github.com/pmndrs/react-three-rapier",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 3,
+    "tags": [
+      "3d",
+      "physics",
+      "rigid-body"
+    ],
+    "notes": "Vật lý 3D, cần kiểm thử tính deterministic khi render Remotion."
+  },
+  {
+    "id": "pmndrs-lamina",
+    "name": "Lamina",
+    "category": "3D Effects",
+    "url": "https://github.com/pmndrs/lamina",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "3d",
+      "shaders",
+      "materials"
+    ],
+    "notes": "Vật liệu shader nhiều lớp cho 3D."
+  },
+  {
+    "id": "pmndrs-fiber",
+    "name": "React Three Fiber",
+    "category": "3D Tools",
+    "url": "https://github.com/pmndrs/react-three-fiber",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "3d",
+      "react",
+      "rendering"
+    ],
+    "notes": "Nền tảng cảnh 3D React, kết hợp @remotion/three."
+  },
+  {
+    "id": "pmndrs-three-stdlib",
+    "name": "Three Stdlib",
+    "category": "3D Tools",
+    "url": "https://github.com/pmndrs/three-stdlib",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "3d",
+      "helpers",
+      "loaders"
+    ],
+    "notes": "Bộ công cụ bổ trợ Three.js."
+  },
+  {
+    "id": "google-model-viewer",
+    "name": "Google model-viewer",
+    "category": "3D Tools",
+    "url": "https://github.com/google/model-viewer",
+    "license": "Apache-2.0",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "3d",
+      "glb",
+      "preview"
+    ],
+    "notes": "Xem trước glTF/GLB trên website, không thay Remotion renderer."
+  },
+  {
+    "id": "lottie-web",
+    "name": "Lottie Web",
+    "category": "2D Effects",
+    "url": "https://github.com/airbnb/lottie-web",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "lottie",
+      "svg",
+      "after-effects"
+    ],
+    "notes": "Player Lottie JSON. License của hoạt ảnh từng file riêng."
+  },
+  {
+    "id": "motion-canvas",
+    "name": "Motion Canvas",
+    "category": "2D Effects",
+    "url": "https://github.com/motion-canvas/motion-canvas",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 3,
+    "tags": [
+      "typescript",
+      "vector",
+      "animation"
+    ],
+    "notes": "Framework video khác Remotion, dùng tham khảo chứ không nhập trực tiếp."
+  },
+  {
+    "id": "motion-react",
+    "name": "Motion for React",
+    "category": "2D Effects",
+    "url": "https://github.com/motiondivision/motion",
+    "license": "MIT cần đối chiếu package/version",
+    "licenseVerification": "review",
+    "status": "Chưa nhập",
+    "priority": 3,
+    "tags": [
+      "animation",
+      "ui",
+      "transitions"
+    ],
+    "notes": "Chuyển hoạt ảnh thời gian thực thành useCurrentFrame để render."
+  },
+  {
+    "id": "3dicons",
+    "name": "3Dicons",
+    "category": "3D Assets",
+    "url": "https://github.com/realvjy/3Dicons",
+    "license": "CC0-1.0",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "3d",
+      "icons",
+      "visual-assets"
+    ],
+    "notes": "Icon 3D dựng sẵn, không mặc định là model GLB chỉnh sửa được."
+  },
+  {
+    "id": "ambientcg",
+    "name": "ambientCG",
+    "category": "PBR Textures",
+    "url": "https://ambientcg.com/",
+    "license": "CC0",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "concrete",
+      "steel",
+      "brick",
+      "pbr"
+    ],
+    "notes": "Texture PBR bê tông, kim loại, gạch; tải từng file khi cần."
+  },
+  {
+    "id": "kenney",
+    "name": "Kenney Assets",
+    "category": "3D Assets",
+    "url": "https://kenney.nl/assets",
+    "license": "CC0 cho game assets được công bố",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "3d",
+      "industrial",
+      "props"
+    ],
+    "notes": "Mô hình 2D/3D low-poly, xem license theo từng pack."
+  },
+  {
+    "id": "quaternius",
+    "name": "Quaternius",
+    "category": "3D Assets",
+    "url": "https://quaternius.com/",
+    "license": "CC0 (theo FAQ chính thức)",
+    "licenseVerification": "verified",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "3d",
+      "low-poly",
+      "environments"
+    ],
+    "notes": "Mô hình low-poly FBX/OBJ/glTF và môi trường."
+  },
+  {
+    "id": "matsynth",
+    "name": "MatSynth PBR Materials",
+    "category": "PBR Textures",
+    "url": "https://www.gvecchio.com/matsynth",
+    "license": "Nghiên cứu công bố CC0; xem license bản tải",
+    "licenseVerification": "review",
+    "status": "Chưa nhập",
+    "priority": 3,
+    "tags": [
+      "pbr",
+      "dataset",
+      "materials"
+    ],
+    "notes": "Dataset vật liệu PBR quy mô lớn, chỉ tham khảo không tải toàn bộ."
   }
 ]
