@@ -1,0 +1,370 @@
+[
+  {
+    "id": "remotion-scenes",
+    "name": "Remotion Scenes",
+    "category": "Kho mẫu 2D",
+    "url": "https://github.com/lifeprompt-team/remotion-scenes",
+    "previewUrl": "https://lifeprompt-team.github.io/remotion-scenes/",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "count": 201,
+    "unit": "scenes",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "typography",
+      "particles",
+      "data",
+      "transitions"
+    ],
+    "notes": "201 scene gồm data animations, text, transition, effects. Phụ thuộc utilities dùng chung; nhập theo từng nhóm và kiểm tra render."
+  },
+  {
+    "id": "react-video-editor",
+    "name": "React Video Editor Templates",
+    "category": "Kho mẫu 2D",
+    "url": "https://github.com/reactvideoeditor/remotion-templates",
+    "previewUrl": "https://www.reactvideoeditor.com/remotion-templates",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "count": 81,
+    "unit": "templates",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "charts",
+      "comparisons",
+      "text"
+    ],
+    "notes": "81 component standalone; 9 mẫu chart/data. Đáng ưu tiên cho infographic thống kê và giá vật liệu."
+  },
+  {
+    "id": "rendercomp",
+    "name": "RenderComp Free Templates",
+    "category": "Kho mẫu 2D",
+    "url": "https://github.com/RenderComp/free-remotion-templates",
+    "previewUrl": "https://rendercomp.com/free/",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "count": 50,
+    "unit": "templates",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "kpi",
+      "text",
+      "charts",
+      "logos"
+    ],
+    "notes": "50 mẫu với props và composition IDs; có nhóm Data & Charts. Giữ SPDX/LICENSE khi sao chép."
+  },
+  {
+    "id": "locomotion",
+    "name": "Locomotion Templates",
+    "category": "Kho mẫu 2D",
+    "url": "https://github.com/Thedurancode/locomotion-templates",
+    "license": "Cần xác minh",
+    "licenseVerification": "review",
+    "count": 67,
+    "unit": "mẫu (chưa xác minh)",
+    "status": "Chưa nhập",
+    "priority": 3,
+    "tags": [
+      "animations",
+      "templates"
+    ],
+    "notes": "Nguồn từ danh mục trước; chưa xác minh độc lập số lượng, giấy phép hoặc tương thích. Chỉ lưu link."
+  },
+  {
+    "id": "onda",
+    "name": "Onda",
+    "category": "Thư viện hiệu ứng",
+    "url": "https://github.com/degueba/onda",
+    "previewUrl": "https://remotion.onda.video/components",
+    "license": "MIT (không gồm nhãn hiệu)",
+    "licenseVerification": "verified",
+    "count": 88,
+    "unit": "70 components + 18 transitions",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "ui",
+      "data",
+      "transitions",
+      "typography"
+    ],
+    "notes": "CLI npx ondajs add; 70 component và 18 transition. Nên nhập từng component và giữ nguyên notices."
+  },
+  {
+    "id": "remocn",
+    "name": "Remocn",
+    "category": "Thư viện hiệu ứng",
+    "url": "https://github.com/Remocn/remocn",
+    "previewUrl": "https://remocn.dev/",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "count": 110,
+    "unit": "components (110+)",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "kinetic-type",
+      "glitch",
+      "ui",
+      "transitions"
+    ],
+    "notes": "Các scene chuyển động và hiệu ứng chữ được cài riêng qua shadcn registry; ưu tiên hook TikTok."
+  },
+  {
+    "id": "remotion-ui",
+    "name": "RemotionUI",
+    "category": "Thư viện hiệu ứng",
+    "url": "https://github.com/riaz37/remotion-ui",
+    "previewUrl": "https://remotionui.com/",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "count": null,
+    "unit": "components",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "captions",
+      "ui",
+      "maps"
+    ],
+    "notes": "Có CLI tìm/cài components, phù hợp caption và UI; chưa kiểm thử chung với phiên bản MotionVault."
+  },
+  {
+    "id": "remotion-bits",
+    "name": "Remotion Bits",
+    "category": "Thư viện hiệu ứng",
+    "url": "https://github.com/av/remotion-bits",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "count": null,
+    "unit": "bits",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "particles",
+      "3d",
+      "colors",
+      "text"
+    ],
+    "notes": "Các building block hiệu ứng, particles và 3D; phụ thuộc phiên bản Three.js cần được so khớp."
+  },
+  {
+    "id": "swiftclip",
+    "name": "SwiftClip",
+    "category": "Kho mẫu 2D",
+    "url": "https://github.com/zz41354899/SwiftClip",
+    "previewUrl": "https://swift-clip.vercel.app/",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "count": 30,
+    "unit": "templates (khoảng 30)",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "marketing",
+      "dataviz",
+      "product",
+      "social"
+    ],
+    "notes": "README có thông tin 30 và 32 khác nhau; số lượng cần kiểm khi nhập. Có Data Viz và Metric Dashboard."
+  },
+  {
+    "id": "remotion-template-three",
+    "name": "Remotion + React Three Fiber",
+    "category": "3D và công cụ",
+    "url": "https://github.com/remotion-dev/template-three",
+    "previewUrl": "https://www.remotion.dev/templates/three",
+    "license": "MIT cho mã template; Remotion riêng",
+    "licenseVerification": "verified",
+    "count": 1,
+    "unit": "starter template",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "threejs",
+      "3d",
+      "product",
+      "turntable"
+    ],
+    "notes": "Starter chính thức cho 3D product và video trong màn hình điện thoại. Không cần trộn toàn bộ boilerplate vào app."
+  },
+  {
+    "id": "ali-abassi",
+    "name": "Remotion Templates — AI Catalog",
+    "category": "Danh mục tham khảo",
+    "url": "https://github.com/ali-abassi/remotion-templates",
+    "license": "MIT cho curation; từng mẫu cần kiểm tra",
+    "licenseVerification": "per-asset",
+    "count": 1000,
+    "unit": "registry entries (tự công bố)",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "agents",
+      "catalog",
+      "preview",
+      "dataviz"
+    ],
+    "notes": "Tự mô tả 1000 entries/100 families. Không suy ra tất cả có thể nhập hợp pháp; kiểm từng tác phẩm/asset."
+  },
+  {
+    "id": "polyhaven",
+    "name": "Poly Haven",
+    "category": "Tài nguyên 3D",
+    "url": "https://polyhaven.com/",
+    "previewUrl": "https://polyhaven.com/models",
+    "license": "CC0 cho assets",
+    "licenseVerification": "verified",
+    "count": null,
+    "unit": "models / textures / HDRIs",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "3d-models",
+      "pbr",
+      "concrete",
+      "lighting"
+    ],
+    "notes": "Tải chọn lọc mô hình, texture bê tông, HDRI. CC0 cho assets; API và website có điều khoản riêng, không tự crawl bulk."
+  },
+  {
+    "id": "khronos-gltf",
+    "name": "Khronos glTF Sample Assets",
+    "category": "Tài nguyên 3D",
+    "url": "https://github.com/KhronosGroup/glTF-Sample-Assets",
+    "previewUrl": "https://github.khronos.org/glTF-Assets/",
+    "license": "Theo từng model",
+    "licenseVerification": "per-asset",
+    "count": null,
+    "unit": "glTF models",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "gltf",
+      "glb",
+      "materials",
+      "animation"
+    ],
+    "notes": "Dùng để test tải GLB/PBR; README của từng model có bản quyền và credits riêng, không có giấy phép chung cho mọi mẫu."
+  },
+  {
+    "id": "mixamo",
+    "name": "Adobe Mixamo",
+    "category": "Tài nguyên 3D",
+    "url": "https://www.mixamo.com/",
+    "license": "Miễn phí sử dụng video; giới hạn tái phân phối",
+    "licenseVerification": "per-asset",
+    "count": null,
+    "unit": "characters / animations",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "3d-characters",
+      "rigging",
+      "animation"
+    ],
+    "notes": "Cho phép dựng phim cá nhân/thương mại, cần Adobe ID; không đưa file gốc lên kho public nếu điều khoản không cho phép."
+  },
+  {
+    "id": "drei",
+    "name": "React Three Drei",
+    "category": "3D và công cụ",
+    "url": "https://github.com/pmndrs/drei",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "count": null,
+    "unit": "helpers",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "fiber",
+      "3d-text",
+      "glb",
+      "cameras"
+    ],
+    "notes": "Dùng helpers trong Remotion 3D nhưng phải điều khiển animation bằng useCurrentFrame, không dùng useFrame tự chạy."
+  },
+  {
+    "id": "d3",
+    "name": "D3.js",
+    "category": "Đồ họa dữ liệu",
+    "url": "https://github.com/d3/d3",
+    "previewUrl": "https://d3js.org/",
+    "license": "ISC",
+    "licenseVerification": "verified",
+    "count": null,
+    "unit": "modules",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "charts",
+      "svg",
+      "data",
+      "maps"
+    ],
+    "notes": "Phù hợp tạo SVG đường đi, số liệu và bar chart. Điều khiển tiến trình bằng frame Remotion, không dựa vào DOM transition thời gian thực."
+  },
+  {
+    "id": "recharts",
+    "name": "Recharts",
+    "category": "Đồ họa dữ liệu",
+    "url": "https://github.com/recharts/recharts",
+    "previewUrl": "https://recharts.org/",
+    "license": "MIT",
+    "licenseVerification": "verified",
+    "count": null,
+    "unit": "React chart components",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "bar",
+      "line",
+      "pie",
+      "dashboard"
+    ],
+    "notes": "React chart component cho dashboard; cần kiểm render frame và animation mặc định trước khi dùng trong Remotion."
+  },
+  {
+    "id": "remotion-resources",
+    "name": "Official Remotion Resources",
+    "category": "Danh mục tham khảo",
+    "url": "https://www.remotion.dev/docs/resources",
+    "license": "Tùy liên kết nguồn",
+    "licenseVerification": "per-asset",
+    "count": null,
+    "unit": "resource index",
+    "status": "Chưa nhập",
+    "priority": 2,
+    "tags": [
+      "directory",
+      "examples",
+      "video",
+      "3d"
+    ],
+    "notes": "Danh sách liên kết chính thức đến templates, ví dụ 3D Text/GLB, components, video editor. Mỗi đích kiểm LICENSE riêng."
+  },
+  {
+    "id": "remotion-three-guidance",
+    "name": "Remotion 3D Best Practices",
+    "category": "3D và công cụ",
+    "url": "https://github.com/remotion-dev/skills/blob/main/skills/remotion-best-practices/remotion-markup/3d.md",
+    "license": "Tài liệu tham khảo",
+    "licenseVerification": "review",
+    "count": null,
+    "unit": "documentation",
+    "status": "Chưa nhập",
+    "priority": 1,
+    "tags": [
+      "threecanvas",
+      "render",
+      "glb",
+      "performance"
+    ],
+    "notes": "Quy tắc quan trọng: ThreeCanvas có kích thước, mọi chuyển động phụ thuộc useCurrentFrame, tránh useFrame."
+  }
+]
